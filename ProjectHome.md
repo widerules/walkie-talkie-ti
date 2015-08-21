@@ -1,0 +1,1 @@
+Project mobile walkie-talkie for the enterprise course of Communication Technologies, Poznan University of Technology.
